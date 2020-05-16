@@ -199,7 +199,7 @@
     "sinon": "^7.3.2",
     "source-map-support": "^0.5.12",
     "sourcegraph": "^24.4.0",
-    "ts-node": "^8.3.0",
+    "ts-node": "^8.10.1",
     "tslint": "^5.20.0",
     "typescript": "^3.5.2"
   },
